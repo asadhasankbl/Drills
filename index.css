@@ -1,0 +1,29 @@
+.textbox {
+    background-color: #dae9df;
+}
+#oltitle{
+        text-transform: uppercase;
+        color: #69787a;
+
+}
+
+#oltext{
+        text-transform: capitalize;
+        color: #69787a;
+
+}
+
+h1 {
+    color: #69787a;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #636759;
+
+}
+
+h3 {
+    color: #c1c9c3;
+    text-transform: capitalize;
+}

@@ -1,0 +1,46 @@
+img {
+ border: 1px solid #ddd;
+ border-radius: 4px;
+ padding: 5px;
+ width: 150px;
+ float: left;
+ 
+}  
+
+div {
+ margin-right: 5px;
+ 
+} 
+
+.divtext
+{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 170px;
+
+
+} 
+p {
+ 
+}
+
+.liimg {
+  display: inline;
+ margin-right: 3px;
+}
+
+li {
+ margin-right: 3px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+     margin-left: px;
+
+}
